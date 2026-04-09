@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Bakersfield Air Conditioning and Heating Company",
+    "phone": "+16614022567",
+    "category": "HVAC contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's HVAC Experts",
+      "heroSubline": "Reliable heating and cooling services for your home or business. Decades of experience tackling Bakersfield's toughest climate.",
+      "aboutTitle": "Decades of Bakersfield HVAC Expertise",
+      "aboutText": [
+        "Bakersfield Air Conditioning and Heating Company started with a simple mission: to provide honest, dependable HVAC services to our neighbors. We're a family-owned business, deeply rooted in the Bakersfield community.",
+        "We believe in doing things right the first time. Our team is committed to providing top-quality workmanship, using the best materials, and offering transparent pricing. We diagnose problems accurately and propose solutions that fit your budget.",
+        "Bakersfield is our home, and we're proud to support local organizations and initiatives. We believe in giving back to the community that has supported us for so many years."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team boasts years of experience servicing all makes and models of HVAC equipment."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait for business hours, and neither do we. We're available around the clock."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work. If you're not happy, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Stay Comfortable Year-Round",
+      "ctaSubline": "Schedule your HVAC service today! Call Bakersfield's trusted HVAC contractor for fast, reliable service."
+    },
+    "services": [
+      {
+        "slug": "air-conditioning-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast, reliable AC repair services to beat the Bakersfield heat.",
+        "description": "When your AC breaks down in the middle of a Bakersfield summer, you need a repair service you can trust. Bakersfield Air Conditioning and Heating Company provides prompt, professional AC repair services for all makes and models of air conditioners. Our experienced technicians will diagnose the problem quickly and accurately, and provide you with a clear explanation of the repair options. We understand the urgency of AC repairs in our climate, and we prioritize emergency calls to get your system back up and running as soon as possible.\n\nWe handle everything from refrigerant leaks and compressor failures to faulty fan motors and electrical issues. Our trucks are fully stocked with common replacement parts, allowing us to complete most repairs on the first visit. Our team is trained to work on both older and newer AC systems, including central air, ductless mini-splits, and window units.\n\nDon't suffer through another sweltering Bakersfield day without a working AC. Contact Bakersfield Air Conditioning and Heating Company for fast, dependable air conditioning repair services.",
+        "process": [
+          "Step 1: Schedule an appointment with our friendly customer service team.",
+          "Step 2: Our technician will arrive on time and perform a thorough diagnostic of your AC system.",
+          "Step 3: We'll provide you with a detailed estimate and explain the repair options.",
+          "Step 4: Upon your approval, we'll complete the repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees",
+          "Guaranteed workmanship"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you get to my AC repair?",
+            "answer": "We understand the urgency of AC repairs in Bakersfield's climate. We offer same-day and emergency service options to get your system back up and running as soon as possible."
+          },
+          {
+            "question": "Do you work on all brands of air conditioners?",
+            "answer": "Yes, our technicians are trained to repair all makes and models of air conditioners, both old and new."
+          },
+          {
+            "question": "What are some signs that my AC needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, unusual odors, and inconsistent cooling."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Expert AC installation for optimal cooling performance in your home.",
+        "description": "Investing in a new air conditioning system is a significant decision, especially in Bakersfield where temperatures soar. Bakersfield Air Conditioning and Heating Company provides professional AC installation services to ensure optimal cooling performance and energy efficiency. We'll help you choose the right AC system for your home or business, considering factors such as square footage, insulation, and budget.\n\nOur trained installers will handle every aspect of the installation process, from removing the old unit to connecting the new system and testing its performance. We adhere to all local building codes and regulations, ensuring a safe and compliant installation. We also offer ductwork inspection and replacement services to maximize the efficiency of your new AC system.\n\nWhether you're upgrading an existing system or installing AC in a new home, Bakersfield Air Conditioning and Heating Company has the expertise to get the job done right. We partner with leading AC manufacturers to offer a wide selection of energy-efficient and reliable air conditioning systems.",
+        "process": [
+          "Step 1: Schedule a free consultation to discuss your cooling needs.",
+          "Step 2: We'll assess your home and recommend the best AC system for your budget and comfort.",
+          "Step 3: Our installers will professionally install your new AC system, ensuring optimal performance.",
+          "Step 4: We'll provide you with a thorough demonstration of your new system and answer any questions."
+        ],
+        "benefits": [
+          "Proper sizing and installation for optimal performance",
+          "Energy-efficient systems to save you money on utility bills",
+          "Professional and reliable installation services",
+          "Warranty on parts and labor"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right size AC unit for my home?",
+            "answer": "We'll perform a load calculation to determine the appropriate size AC unit based on your home's specific characteristics, such as square footage, insulation, and window placement."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The installation time depends on the complexity of the job, but most AC installations can be completed in one to two days."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to help make AC installation more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "heating-repair",
+        "name": "Heating Repair",
+        "shortDescription": "Keep your home warm and cozy with our expert heating repair services.",
+        "description": "While Bakersfield is known for its hot summers, the winter months can still bring chilly temperatures. Bakersfield Air Conditioning and Heating Company provides reliable heating repair services to keep your home warm and comfortable. Our experienced technicians are trained to diagnose and repair all types of heating systems, including furnaces, heat pumps, and boilers.\n\nWe understand the importance of having a functioning heating system during the colder months. That's why we offer prompt and efficient repair services to get your system back up and running as quickly as possible. We handle everything from pilot light issues and gas leaks to blower motor failures and thermostat problems.\n\nDon't let a malfunctioning heating system leave you shivering. Contact Bakersfield Air Conditioning and Heating Company for fast, dependable heating repair services.",
+        "process": [
+          "Step 1: Contact us to schedule a heating repair appointment.",
+          "Step 2: Our technician will arrive on time and conduct a thorough inspection of your heating system.",
+          "Step 3: We'll provide you with a detailed explanation of the problem and the repair options.",
+          "Step 4: Upon your approval, we'll complete the repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Fast and reliable heating repair services",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my heating system serviced?",
+            "answer": "We recommend scheduling a heating system tune-up at least once a year to ensure optimal performance and prevent breakdowns."
+          },
+          {
+            "question": "What are some signs that my heating system needs repair?",
+            "answer": "Common signs include strange noises, unusual odors, inconsistent heating, and a sudden increase in your energy bills."
+          },
+          {
+            "question": "Do you offer emergency heating repair services?",
+            "answer": "Yes, we offer 24/7 emergency heating repair services to address urgent heating problems."
+          }
+        ]
+      },
+      {
+        "slug": "heating-installation",
+        "name": "Heating Installation",
+        "shortDescription": "Professional heating system installation for efficient and reliable warmth.",
+        "description": "When it's time to replace your old heating system, Bakersfield Air Conditioning and Heating Company provides professional heating installation services to ensure efficient and reliable warmth for your home. We'll help you choose the right heating system for your needs, considering factors such as your home's size, insulation, and energy efficiency goals.\n\nOur experienced installers will handle every aspect of the installation process, from removing the old unit to connecting the new system and testing its performance. We adhere to all local building codes and regulations, ensuring a safe and compliant installation. We also offer ductwork inspection and replacement services to maximize the efficiency of your new heating system.\n\nWhether you're upgrading to a more energy-efficient furnace or installing a new heat pump, Bakersfield Air Conditioning and Heating Company has the expertise to get the job done right.",
+        "process": [
+          "Step 1: Schedule a free consultation to discuss your heating needs.",
+          "Step 2: We'll assess your home and recommend the best heating system for your budget and comfort.",
+          "Step 3: Our installers will professionally install your new heating system, ensuring optimal performance.",
+          "Step 4: We'll provide you with a thorough demonstration of your new system and answer any questions."
+        ],
+        "benefits": [
+          "Proper sizing and installation for optimal performance",
+          "Energy-efficient systems to save you money on energy bills",
+          "Professional and reliable installation services",
+          "Warranty on parts and labor"
+        ],
+        "faq": [
+          {
+            "question": "What type of heating system is best for my home?",
+            "answer": "The best type of heating system depends on your individual needs and preferences. We'll help you evaluate the pros and cons of different heating options, such as furnaces, heat pumps, and boilers."
+          },
+          {
+            "question": "How long does heating installation typically take?",
+            "answer": "The installation time depends on the complexity of the job, but most heating installations can be completed in one to two days."
+          },
+          {
+            "question": "Do you offer financing options for heating installation?",
+            "answer": "Yes, we offer flexible financing options to help make heating installation more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "ductwork-services",
+        "name": "Ductwork Services",
+        "shortDescription": "Improve your HVAC system's efficiency with our ductwork repair and installation.",
+        "description": "Leaky or poorly designed ductwork can significantly reduce the efficiency of your HVAC system, leading to higher energy bills and uneven temperatures throughout your home. Bakersfield Air Conditioning and Heating Company offers comprehensive ductwork services to ensure optimal airflow and energy savings. We provide ductwork inspection, repair, sealing, and installation services.\n\nOur experienced technicians will inspect your ductwork for leaks, damage, and improper insulation. We use advanced techniques, such as duct sealing, to eliminate air leaks and improve the overall efficiency of your HVAC system. We also offer ductwork design and installation services for new construction and remodeling projects.\n\nProperly functioning ductwork is crucial for maintaining a comfortable and energy-efficient home. Contact Bakersfield Air Conditioning and Heating Company for expert ductwork services.",
+        "process": [
+          "Step 1: Schedule a ductwork inspection with our team.",
+          "Step 2: We'll thoroughly inspect your ductwork system.",
+          "Step 3: We'll diagnose any issues and provide recommended solutions.",
+          "Step 4: Upon approval, we'll perform the ductwork services to improve efficiency."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Lower energy bills",
+          "More consistent temperatures throughout your home",
+          "Improved indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my ductwork needs repair?",
+            "answer": "Signs of leaky ductwork include higher energy bills, uneven temperatures, and dusty air vents."
+          },
+          {
+            "question": "What is duct sealing?",
+            "answer": "Duct sealing is the process of sealing air leaks in your ductwork to improve efficiency and reduce energy waste."
+          },
+          {
+            "question": "How often should I have my ductwork inspected?",
+            "answer": "We recommend having your ductwork inspected every few years to identify and address any potential problems."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Extend the life of your HVAC system with our comprehensive maintenance services.",
+        "description": "Regular HVAC maintenance is essential for keeping your system running efficiently and preventing costly repairs. Bakersfield Air Conditioning and Heating Company offers comprehensive HVAC maintenance services to ensure your system is operating at its best. Our maintenance services include cleaning, inspection, and tune-up of all major HVAC components.\n\nDuring a maintenance visit, our technicians will inspect your system for potential problems, clean the coils and filters, lubricate moving parts, and check refrigerant levels. We'll also provide you with recommendations for improving the efficiency and performance of your system. Preventative maintenance can help extend the life of your HVAC system and save you money on energy bills.\n\nProtect your investment and ensure your comfort with regular HVAC maintenance from Bakersfield Air Conditioning and Heating Company.",
+        "process": [
+          "Step 1: Schedule an HVAC maintenance appointment.",
+          "Step 2: Our technician will arrive on time and perform a thorough inspection and tune-up of your system.",
+          "Step 3: We'll provide you with a detailed report of our findings and any recommendations for repairs or improvements.",
+          "Step 4: We'll answer any questions you have and ensure your system is running optimally."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Lower energy bills",
+          "Extended system lifespan",
+          "Reduced risk of breakdowns"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my HVAC system maintained?",
+            "answer": "We recommend scheduling HVAC maintenance at least once a year, preferably in the spring for AC and in the fall for heating."
+          },
+          {
+            "question": "What is included in an HVAC maintenance service?",
+            "answer": "Our maintenance services include cleaning, inspection, and tune-up of all major HVAC components, such as coils, filters, blower motors, and refrigerant levels."
+          },
+          {
+            "question": "Can HVAC maintenance really save me money?",
+            "answer": "Yes, regular HVAC maintenance can improve energy efficiency, reduce the risk of breakdowns, and extend the life of your system, which can save you money in the long run."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company is proud to serve the residents and businesses of Bakersfield, California. We understand the importance of a reliable HVAC system in this Central Valley climate, where summers are scorching and winters can bring unexpected chills. Our team of experienced technicians is committed to providing top-notch heating and cooling services to ensure your comfort year-round.\n\nFrom routine maintenance and repairs to complete system installations, we offer a comprehensive range of HVAC solutions tailored to meet your specific needs. We use only the highest quality equipment and materials, and our workmanship is guaranteed. Trust Bakersfield Air Conditioning and Heating Company for all your HVAC needs in Bakersfield.",
+        "localContext": "Bakersfield is a major agricultural and energy production hub in Kern County known for its hot summers and growing population. We understand the unique HVAC challenges presented by the local climate and infrastructure.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company extends its expert HVAC services to the community of Oildale. We recognize the specific needs of Oildale residents, many of whom rely on efficient and affordable heating and cooling solutions. Our commitment is to deliver prompt, reliable service with a focus on customer satisfaction.\n\nWhether you need a quick repair, a complete system overhaul, or preventative maintenance to keep your HVAC running smoothly, our team is ready to assist. We pride ourselves on our transparent pricing and our dedication to providing the best possible service to the Oildale community.",
+        "localContext": "Oildale, located just north of Bakersfield, has a strong connection to the oil industry and a close-knit community feel. We are familiar with the older housing stock and its HVAC needs.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company proudly serves the growing community of Rosedale. We understand that Rosedale residents value quality and reliability, and we strive to exceed expectations with our expert HVAC services. Our team is dedicated to providing efficient and affordable solutions tailored to your specific needs.\n\nFrom new construction installations to existing system repairs and maintenance, we offer a full range of HVAC services. We use only the highest quality equipment and materials, and our workmanship is guaranteed. Choose Bakersfield Air Conditioning and Heating Company for all your HVAC needs in Rosedale.",
+        "localContext": "Rosedale is a rapidly developing suburban area northwest of Bakersfield, known for its newer homes and family-friendly environment. We understand the needs of modern HVAC systems in these homes.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company is committed to providing top-quality HVAC services to the residents and businesses of Shafter, California. We understand the importance of a reliable and efficient HVAC system, especially during the hot summer months. Our team of experienced technicians is dedicated to ensuring your comfort and satisfaction.\n\nWe offer a comprehensive range of services, including repairs, maintenance, and new installations. Whether you need a quick fix or a complete system upgrade, we have the expertise to get the job done right. Trust Bakersfield Air Conditioning and Heating Company for all your HVAC needs in Shafter.",
+        "localContext": "Shafter is a growing agricultural community in Kern County, known for its rich farmland and strong sense of community. We understand the need for reliable HVAC systems to protect crops and ensure comfortable living conditions.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company extends its services to Wasco, California, providing reliable and affordable HVAC solutions. We know that Wasco residents need dependable heating and cooling systems to cope with the Central Valley climate. Our team is dedicated to delivering prompt and professional service.\n\nWe offer a wide range of services, including repairs, maintenance, and new installations. Whether you need a quick fix or a complete system upgrade, we have the expertise to get the job done right. Count on Bakersfield Air Conditioning and Heating Company for all your HVAC requirements in Wasco.",
+        "localContext": "Wasco is a small agricultural town known for its rose cultivation and close community ties. We understand the importance of affordable and reliable HVAC services for Wasco families.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company is pleased to serve the community of Lamont with our expert HVAC services. We recognize the importance of having a reliable heating and cooling system in Lamont, especially during the extreme temperatures. Our team is committed to providing top-notch service with a focus on customer satisfaction.\n\nFrom routine maintenance and repairs to new system installations, we offer a full range of HVAC solutions tailored to meet your specific needs. We use only the highest quality equipment and materials, and our workmanship is guaranteed. Choose Bakersfield Air Conditioning and Heating Company for all your HVAC needs in Lamont.",
+        "localContext": "Lamont is a primarily agricultural community southeast of Bakersfield. We are familiar with the older homes and the need for efficient and affordable HVAC solutions in this area.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company is proud to offer our HVAC services to the residents and businesses of Arvin, California. We understand the unique challenges posed by the climate in Arvin, where extreme temperatures can impact the efficiency and reliability of your heating and cooling systems. Our experienced technicians are dedicated to providing prompt and professional service to ensure your comfort year-round.\n\nWhether you need routine maintenance, emergency repairs, or a complete system replacement, we have the expertise and resources to meet your needs. We use only top-quality equipment and materials, and our workmanship is guaranteed. Trust Bakersfield Air Conditioning and Heating Company for all your HVAC needs in Arvin.",
+        "localContext": "Arvin is a primarily agricultural community located in the southeastern part of Kern County, known for its vineyards and orchards. We understand the importance of reliable HVAC systems for both residential and commercial properties in this area.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company extends its expertise to Tehachapi, providing reliable HVAC services to this unique mountain community. We understand that Tehachapi experiences distinct weather patterns, including colder winters and milder summers, requiring tailored heating and cooling solutions. Our team is committed to delivering exceptional service and ensuring your comfort throughout the year.\n\nFrom routine maintenance and repairs to new system installations, we offer a comprehensive range of HVAC services designed to meet the specific needs of Tehachapi residents. We use only the highest quality equipment and materials, and our workmanship is guaranteed. Trust Bakersfield Air Conditioning and Heating Company for all your HVAC needs in Tehachapi.",
+        "localContext": "Tehachapi is a mountain town known for its windmills and scenic beauty. The climate is different than Bakersfield and requires specific HVAC solutions.",
+        "nearbyAreas": [
+          "California City",
+          "Mojave",
+          "Bear Valley Springs"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Bakersfield Air Conditioning and Heating Company is dedicated to providing top-quality HVAC services to the residents and businesses of McFarland, California. We understand the importance of a reliable and efficient HVAC system, especially during the hot summer months. Our team of experienced technicians is committed to ensuring your comfort and satisfaction.\n\nWe offer a comprehensive range of services, including repairs, maintenance, and new installations. Whether you need a quick fix or a complete system upgrade, we have the expertise to get the job done right. Trust Bakersfield Air Conditioning and Heating Company for all your HVAC needs in McFarland.",
+        "localContext": "McFarland is a small agricultural community known for its history and strong community bonds. We understand the need for affordable and reliable HVAC services for the families and businesses in McFarland.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out during a heat wave, and Bakersfield Air Conditioning and Heating Company came to our rescue! The technician, David, was prompt, professional, and quickly diagnosed the problem. He had the part on hand and fixed it within an hour. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "We recently had Bakersfield Air Conditioning and Heating Company install a new furnace in our home in Oleander-Sunset. The installation went smoothly, and the team was very respectful of our property. The new furnace is much more efficient than our old one. Only giving 4 stars because the initial quote was slightly lower than the final price due to unforeseen ductwork modifications. Would still recommend.",
+        "date": "2025-03-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I was concerned about the air quality in my home, so I hired Bakersfield Air Conditioning and Heating Company to clean my ducts. I was amazed at how much dust and debris they removed! My air feels much cleaner now, and I'm breathing easier. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "AC Maintenance",
+        "text": "I've been using Bakersfield Air Conditioning and Heating Company for annual AC maintenance for the past 5 years. They're always on time, professional, and thorough. I appreciate their attention to detail and their commitment to keeping my AC running smoothly.",
+        "date": "2025-06-10"
+      },
+      {
+        "name": "Karen P.",
+        "rating": 4,
+        "service": "Heat Pump Repair",
+        "text": "Our heat pump stopped working in the middle of winter, and Bakersfield Air Conditioning and Heating Company was able to fix it quickly. The technician was knowledgeable and explained the problem clearly. The price was reasonable, and we were happy to have our heat back on.",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "Tom R.",
+        "rating": 5,
+        "service": "New AC Installation",
+        "text": "Bakersfield Air Conditioning and Heating Company installed a new AC unit in my home last month. The entire process, from the initial consultation to the final installation, was handled professionally and efficiently. The team was knowledgeable and helpful in answering all my questions. I am very satisfied with the quality of the work and the performance of the new AC unit. I recommend this company!",
+        "date": "2024-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "HVAC Bakersfield CA | AC & Heating",
+        "description": "Bakersfield's top HVAC contractor for AC repair, installation & maintenance. Expert service for Bakersfield homes and businesses."
+      },
+      "about": {
+        "title": "About Bakersfield Air Conditioning",
+        "description": "Learn about Bakersfield Air Conditioning and Heating Company's commitment to quality HVAC services in Bakersfield, CA."
+      },
+      "services": {
+        "title": "HVAC Services Bakersfield CA",
+        "description": "Comprehensive HVAC services in Bakersfield, CA. AC repair, heating installation, ductwork & more. Call for a free quote!"
+      },
+      "contact": {
+        "title": "Contact Bakersfield HVAC Company",
+        "description": "Contact Bakersfield Air Conditioning and Heating Company for fast, reliable HVAC services in Bakersfield, CA. Call now!"
+      },
+      "reviews": {
+        "title": "Bakersfield HVAC Reviews",
+        "description": "Read reviews from satisfied customers of Bakersfield Air Conditioning and Heating Company. Trusted HVAC services in Bakersfield, CA."
+      },
+      "service-areas": {
+        "title": "HVAC Service Areas",
+        "description": "Bakersfield Air Conditioning and Heating Company provides HVAC services throughout Bakersfield and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "air-conditioning-repair": "/images/service-air-conditioning-repair.webp",
+      "air-conditioning-installation": "/images/service-air-conditioning-installation.webp",
+      "heating-repair": "/images/service-heating-repair.webp",
+      "heating-installation": "/images/service-heating-installation.webp",
+      "ductwork-services": "/images/service-ductwork-services.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "air-conditioning-repair": {
+        "src": "/images/service-air-conditioning-repair.webp",
+        "srcset": "/images/service-air-conditioning-repair-400w.webp 400w, /images/service-air-conditioning-repair-800w.webp 800w, /images/service-air-conditioning-repair-1200w.webp 1200w, /images/service-air-conditioning-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-installation": {
+        "src": "/images/service-air-conditioning-installation.webp",
+        "srcset": "/images/service-air-conditioning-installation-400w.webp 400w, /images/service-air-conditioning-installation-800w.webp 800w, /images/service-air-conditioning-installation-1200w.webp 1200w, /images/service-air-conditioning-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-repair": {
+        "src": "/images/service-heating-repair.webp",
+        "srcset": "/images/service-heating-repair-400w.webp 400w, /images/service-heating-repair-800w.webp 800w, /images/service-heating-repair-1200w.webp 1200w, /images/service-heating-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heating-installation": {
+        "src": "/images/service-heating-installation.webp",
+        "srcset": "/images/service-heating-installation-400w.webp 400w, /images/service-heating-installation-800w.webp 800w, /images/service-heating-installation-1200w.webp 1200w, /images/service-heating-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ductwork-services": {
+        "src": "/images/service-ductwork-services.webp",
+        "srcset": "/images/service-ductwork-services-400w.webp 400w, /images/service-ductwork-services-800w.webp 800w, /images/service-ductwork-services-1200w.webp 1200w, /images/service-ductwork-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
